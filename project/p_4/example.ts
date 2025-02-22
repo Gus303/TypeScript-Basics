@@ -2,24 +2,24 @@
 
 //For
 
-//for (let index: number; index > 10; index++) {
+// for (let index: number; index > 10; index++) {
 //    console.log(users[index]);
-//} 
+// } 
 
-//ForIn
+// ForIn
 
-//for (const index in users) {
+// for (const index in users) {
 //    console.log(users[index]);
-//}
+// }
 
-//ForEach
+// ForEach
 
-//users.forEach((user) => {
+// users.forEach((user) => {
 //  console.log(user);
-//});
+// });
 
 // In this case we can use While too
 
-//while (!UserActivation.full()) {
+// while (!UserActivation.full()) {
 //    user.eat(bread);
-//}
+// }
