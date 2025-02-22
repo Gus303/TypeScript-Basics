@@ -1,8 +1,8 @@
-type User = {
-    firstName: string
-    lastName: string
-}
+// type User = {
+//     firstName: string
+//     lastName: string
+// }
 
-const fullName = (user: User): string => {
-    return `${user.firstName} ${user.lastName}`
-}
+// const fullName = (user: User): string => {
+//     return `${user.firstName} ${user.lastName}`
+// }
